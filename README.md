@@ -1,1 +1,2 @@
-# specializing-large--language-models-using-chain-of-thought-reasoning
+# Specializing Large Language Models using Chain-of-Thought Reasoning
+
